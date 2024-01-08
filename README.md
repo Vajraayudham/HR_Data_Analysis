@@ -29,3 +29,11 @@ This project aims to explore the company HR data to understand the most paid car
 22. What is the average age of employees in each department?
 23. Average age by each race?
 24. What is the average age of each position?
+
+### Procedures :
+1. Data Cleaning
+       Remove unwanted columns, delete PII.
+2. Database Creation
+3. Writing Scripts to answer defined questions.
+
+
