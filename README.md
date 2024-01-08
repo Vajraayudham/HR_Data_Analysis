@@ -31,9 +31,9 @@ This project aims to explore the company HR data to understand the most paid car
 24. What is the average age of each position?
 
 ### Procedures :
-1. Data Cleaning
-       Remove unwanted columns, delete PII.
-2. Database Creation
-3. Writing Scripts to answer defined questions.
+1. Data Cleaning :
+   `Remove unwanted columns, delete PII.`
+3. Database Creation
+4. Writing Scripts to answer defined questions.
 
 
